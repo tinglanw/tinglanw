@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tinglan
 
-<!--
-**tinglanw/tinglanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+#### Languages:
+![Languages](https://skillicons.dev/icons?i=js,cpp,java,swift,html)
+#### Frameworks and Libraries:
+![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind)
+#### Tools:
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,markdown,latex)
 
-Here are some ideas to get you started:
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/tinglan-wei/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
