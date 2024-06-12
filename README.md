@@ -4,7 +4,8 @@ I concentrate on computers or cats.
 
 [<img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">](https://www.linkedin.com/in/tinglan-wei/)
 [<img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook3.svg">](weitinglan@outlook.com)
-----
+
+---
 ## Featured Projects
 [AdoptaPal](https://tinglanw.github.io/AdoptaPal/): Animal Adoption Website  
 [Recepi-Generator](): Recipe Generator
