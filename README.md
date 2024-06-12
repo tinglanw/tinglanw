@@ -7,8 +7,12 @@ I concentrate on computers or cats.
 
 ---
 ## Featured Projects
-[AdoptaPal](https://tinglanw.github.io/AdoptaPal/): Animal Adoption Website  
-[Recepi-Generator](): Recipe Generator
+
+| Name             | intro                     | URL                                                  | Tech                                                                                                           |
+| ---------------- | ------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| AdoptaPal        | A animal adoption website | [repo](https://github.com/tinglanw/AdoptaPal)        | <img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg"><img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg"><img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"><img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">|
+| Recipe Generator | Generate recipe with AI   | [repo](https://github.com/tinglanw/recipe-generator) | <img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg"><img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg"><img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg"><img height="20px" img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg">]|
+
 
 ## Skills
 
