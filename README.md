@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/u32VNzt.jpeg"  width="300"></img>
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Akiyama_Mio_Reading_C_Programming_Language.png"  width="300"></img>
 </p>
 
 <h2 align="center">Hi, I'm Tinglan</h2>
